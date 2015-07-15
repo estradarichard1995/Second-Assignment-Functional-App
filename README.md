@@ -1,4 +1,4 @@
-# Second-Assignement-Functional-App
+# Second-Assignment-Functional-App
 
 Tasks Done (July 12, 2015) :
  <ul>
